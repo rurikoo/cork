@@ -99,6 +99,7 @@ allow = [
   "Apache-2.0",
   "Apache-2.0 WITH LLVM-exception",
   "BSD-3-Clause",
+  "BSD-2-Clause",
   "Zlib",
   "bzip2-1.0.6",
   "Unicode-3.0",
